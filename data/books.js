@@ -616,7 +616,7 @@ export const booksData = [
                     "추억이 우리에게 주는 선물은 무엇일까요?",
                     "엄마의 사랑은 어떤 모습으로 우리 곁에 있나요?"
                 ],
-                worksheetUrl: "https://forms.gle/momVendingMachine"
+                worksheetUrl: "https://plusiam.github.io/family-vending-machine/"
             }
         }
     }
